@@ -56,13 +56,6 @@ Currently building real-world iOS apps and always looking to grow as a developer
 
 ---
 
-## 📊 GitHub Stats
-
-![Yerassyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=c213code&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c213code&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contact
 
@@ -71,4 +64,4 @@ Currently building real-world iOS apps and always looking to grow as a developer
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+*"Just want internship)"*
