@@ -60,7 +60,7 @@ Currently building real-world iOS apps and always looking to grow as a developer
 ## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-toleubeke2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toleubeke2006@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@yerasyl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeeerosh)
+[![Telegram](https://img.shields.io/badge/Telegram-@yeeerosh-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yeeerosh)
 
 ---
 
