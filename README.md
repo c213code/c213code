@@ -31,7 +31,7 @@ Currently building real-world iOS apps and always looking to grow as a developer
 ### Backend & Data
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![API](https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge)
+![API](https://img.shields.io/badge/API-0078D4?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### Frameworks & Tools
