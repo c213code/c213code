@@ -10,7 +10,6 @@ Currently building real-world iOS apps and always looking to grow as a developer
 
 - 📱 iOS Developer focused on **UIKit + Swift**
 - 🎓 Student at **SDU University** (2024–2028)
-- 🏆 TechOrda grant winner — studied at **Codeco iOS Developer course**
 - 🔨 Currently building **HalalScanner** - an AI-powered halal food detection app
 - 📖 Always learning: MVVM, Clean Architecture, Combine
 
@@ -32,14 +31,13 @@ Currently building real-world iOS apps and always looking to grow as a developer
 ### Backend & Data
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge)
+![API](https://img.shields.io/badge/REST_API-0078D4?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### Frameworks & Tools
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-34495E?style=for-the-badge&logo=apple&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow_ML-6935D3?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 
 ---
 
